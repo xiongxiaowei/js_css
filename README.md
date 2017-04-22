@@ -11,7 +11,7 @@
 
 ### API
 - [axios](http://www.kancloud.cn/yunye/axios/234845)
-- [jquery]()
+- [jquery](http://jquery.com/)
 
 ### tools
 - [iconmoon](https://icomoon.io/app/#/select)
