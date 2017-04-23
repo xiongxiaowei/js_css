@@ -8,6 +8,7 @@
 - [Element-Ui](http://element.eleme.io/)
 - [iview](https://www.iviewui.com/)
 - [Mint-Ui](http://mint-ui.github.io/)
+- [amazeui](http://amazeui.org/)
 
 ### API
 - [axios](http://www.kancloud.cn/yunye/axios/234845)
