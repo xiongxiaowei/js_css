@@ -2,6 +2,7 @@
 - [angular](https://angularjs.org/)
 - [react](http://reactjs.cn/)
 - [vue](https://vuejs.org/) || [vuex](http://vuex.vuejs.org/) ||[vue-router](http://router.vuejs.org/)
+- [avalon](http://avalonjs.coding.me/)
 
 ### Ui
 - [bootstrap](http://v3.bootcss.com/)
