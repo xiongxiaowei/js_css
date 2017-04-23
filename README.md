@@ -20,6 +20,7 @@
 - [processon](https://www.processon.com/diagrams)
 - [在线工具](http://tools.jb51.net/code)
 - [我的代码](http://www.wodedaima.com/)
+- [百度静态资源库](http://cdn.code.baidu.com/)
 
 ### personal
 - [js_method](https://github.com/xiongxiaowei/js_method)
