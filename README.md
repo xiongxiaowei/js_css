@@ -10,6 +10,7 @@
 - [iview](https://www.iviewui.com/)
 - [Mint-Ui](http://mint-ui.github.io/)
 - [amazeui](http://amazeui.org/)
+- [animate.css](http://daneden.github.io/animate.css/)
 
 ### API
 - [axios](http://www.kancloud.cn/yunye/axios/234845)
