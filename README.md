@@ -14,6 +14,8 @@
 ### API
 - [axios](http://www.kancloud.cn/yunye/axios/234845)
 - [jquery](http://jquery.com/)
+### 教程
+- [php](http://www.phpstudy.net/php/)
 
 ### tools
 - [iconmoon](https://icomoon.io/app/#/select)
