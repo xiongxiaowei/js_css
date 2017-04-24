@@ -49,4 +49,4 @@
 - [Wos](https://ke.qq.com/teacher/2773817091)
 - [腾讯课堂](https://ke.qq.com/course/list/angular)
 - [后盾网](http://git.oschina.net/houdunwang)
-- [judy201654321](coding.net/u/judy201654321)
+- [judy201654321](http://git.oschina.net/judy201654321)
